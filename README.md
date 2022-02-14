@@ -20,5 +20,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50" />
   
 <br/>
+
+<br/>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L4zy-p&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+<br/>
